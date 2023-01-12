@@ -5,9 +5,9 @@ This project is a practice for the use of animations in flutter. Specifically th
 Also curious detail that every time the application is entered the colors change randomly and the color of the texts adapts to those colors to be more legible.
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 1em;">
-  <img src="screenshot0.png" alt="Screenshot 0">
-  <img src="screenshot1.png" alt="Screenshot 1">
-  <img src="screenshot2.png" alt="Screenshot 2">
-  <img src="screenshot3.png" alt="Screenshot 3">
+  <img width="24%" src="screenshot0.png" alt="Screenshot 0">
+  <img width="24%" src="screenshot1.png" alt="Screenshot 1">
+  <img width="24%" src="screenshot2.png" alt="Screenshot 2">
+  <img width="24%" src="screenshot3.png" alt="Screenshot 3">
 </div>
-# twitter-animate-do
+
